@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio_website/static/css/main.5b02939e.css",
-    "main.js": "/portfolio_website/static/js/main.fbee2861.js",
-    "static/js/770.b477def6.chunk.js": "/portfolio_website/static/js/770.b477def6.chunk.js",
-    "static/js/453.1407b060.chunk.js": "/portfolio_website/static/js/453.1407b060.chunk.js",
-    "static/media/postUpload.png": "/portfolio_website/static/media/postUpload.148f46d7e6b0eb6b785f.png",
-    "static/media/codeEditor.png": "/portfolio_website/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/AbinAugustine_Resume_updated.pdf": "/portfolio_website/static/media/AbinAugustine_Resume_updated.a402ab9307b1f140ab27.pdf",
-    "static/media/home-main.svg": "/portfolio_website/static/media/home-main.18ca7d99fd659559d28a7115cdf11ca3.svg",
-    "static/media/about.png": "/portfolio_website/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/AlertMe.png": "/portfolio_website/static/media/AlertMe.9cee1508770024f39b02.png",
-    "static/media/home-bg.jpg": "/portfolio_website/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/portfolio_website/static/media/avatar.e623353fd703dd88fd6a3998ac637d7d.svg",
-    "static/media/pre.svg": "/portfolio_website/static/media/pre.dba3357269fc8eb32450.svg",
-    "index.html": "/portfolio_website/index.html",
-    "main.5b02939e.css.map": "/portfolio_website/static/css/main.5b02939e.css.map",
-    "main.fbee2861.js.map": "/portfolio_website/static/js/main.fbee2861.js.map",
-    "770.b477def6.chunk.js.map": "/portfolio_website/static/js/770.b477def6.chunk.js.map",
-    "453.1407b060.chunk.js.map": "/portfolio_website/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/profolio_website/static/css/main.64b0fd0c.css",
+    "main.js": "/profolio_website/static/js/main.19afc900.js",
+    "static/js/770.b477def6.chunk.js": "/profolio_website/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/profolio_website/static/js/453.1407b060.chunk.js",
+    "static/media/postUpload.png": "/profolio_website/static/media/postUpload.148f46d7e6b0eb6b785f.png",
+    "static/media/codeEditor.png": "/profolio_website/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/AbinAugustine_Resume_updated.pdf": "/profolio_website/static/media/AbinAugustine_Resume_updated.a402ab9307b1f140ab27.pdf",
+    "static/media/home-main.svg": "/profolio_website/static/media/home-main.18ca7d99fd659559d28a7115cdf11ca3.svg",
+    "static/media/about.png": "/profolio_website/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/AlertMe.png": "/profolio_website/static/media/AlertMe.9cee1508770024f39b02.png",
+    "static/media/home-bg.jpg": "/profolio_website/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/profolio_website/static/media/avatar.e623353fd703dd88fd6a3998ac637d7d.svg",
+    "static/media/pre.svg": "/profolio_website/static/media/pre.dba3357269fc8eb32450.svg",
+    "index.html": "/profolio_website/index.html",
+    "main.64b0fd0c.css.map": "/profolio_website/static/css/main.64b0fd0c.css.map",
+    "main.19afc900.js.map": "/profolio_website/static/js/main.19afc900.js.map",
+    "770.b477def6.chunk.js.map": "/profolio_website/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/profolio_website/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b02939e.css",
-    "static/js/main.fbee2861.js"
+    "static/css/main.64b0fd0c.css",
+    "static/js/main.19afc900.js"
   ]
 }
