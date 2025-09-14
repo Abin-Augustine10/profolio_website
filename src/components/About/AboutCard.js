@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Abin Augustine </span>
             from <span className="purple"> Kerala, India.</span>
             <br />
-            I am currently BTech Computer Science final year student at Rajiv Gandhi Institute of Technology, Kottayam.
+            I am currently Software Developer at Consumer Cloud Technology Services Pvt Ltd.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
