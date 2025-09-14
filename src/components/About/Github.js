@@ -10,12 +10,12 @@ function Github() {
       </h1>
       <GitHubCalendar
         username="Abin-Augustine10"
-        blockSize={15}
-        blockMargin={5}
+        blockSize={10} // Reduced from 15
+        blockMargin={3} // Reduced from 5
         color="#c084f5"
-        fontSize={16}
+        fontSize={14} // Reduced from 16
+        years={[2023, 2024]} // Limit to recent years only
       />
-      
     </Row>
   );
 }

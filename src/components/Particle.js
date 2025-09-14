@@ -6,10 +6,9 @@ function Particle() {
     <Particles
       id="tsparticles"
       params={{
-        
         particles: {
           number: {
-            value: 160,
+            value: 50, // Reduced from 160 to 50
             density: {
               enable: true,
               value_area: 1500,
