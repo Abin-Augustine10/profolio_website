@@ -22,9 +22,13 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I work with 
               <i>
-                <b className="purple"> C, Javascript and Python. </b>
+                <b className="purple"> C#, Python, SQL, JavaScript, and React.js, </b>
+              </i>
+              and also build solutions using 
+              <i>
+                <b className="purple"> .NET, Power BI, and SQL Server. </b>
               </i>
               <br />
               <br />
